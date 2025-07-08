@@ -46,7 +46,7 @@ Todo o processo será supervisionado e bem instruído, com espaço para aprendiz
 
 ## Tempo de estágio
 
-Contrato de 6 meses com possibilidade de renovação por mais 6 meses e possibilidade de efetivação em após 12 meses.
+Contrato de 6 meses com possibilidade de renovação por mais 6 meses e efetivação após 12 meses.
 
 ## 🎁 O que oferecemos
 
