@@ -44,6 +44,10 @@ Todo o processo será supervisionado e bem instruído, com espaço para aprendiz
 - Conhecimento básico de Docker
 - conhecimento básico de deploy em qualquer cloud
 
+## Tempo de estágio
+
+Contrato de 6 meses com possibilidade de renovação por mais 6 meses e possibilidade de efetivação em após 12 meses.
+
 ## 🎁 O que oferecemos
 
 - 🤑 **Bolsa de R$ 800/mês**
