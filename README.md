@@ -53,4 +53,5 @@ Todo o processo será supervisionado e bem instruído, com espaço para aprendiz
 - 🌍 **Trabalho 100% remoto**
 - 👥 **Ambiente colaborativo e tranquilo para se trabalhar, nada de correia aqui!** ❤️
 
+# Aplique
 Aplique para a vaga aqui: https://github.com/italojs/vaga-estagio/blob/main/README.md
